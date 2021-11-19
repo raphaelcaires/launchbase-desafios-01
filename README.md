@@ -27,10 +27,10 @@
 
 ## :rocket: Desafios
 
-- [Primeiros passos com JavaScript](desafios/01-1-primeiros-passos-com-js.md)
-- [Lidando com objetos e vetores](desafios/01-2-lidando-com-objetos-e-vetores.md)
-- [Funções e estruturas de repetição](desafios/01-3-funcoes-e-estruturas-de-repeticao.md)
-- [Aplicação: Operações bancárias](desafios/01-4-aplicacao-operacoes-bancarias.md)
+- [Primeiros passos com JavaScript](https://github.com/raphaelcaires/launchbase-desafios-01/blob/main/1-1%20Primeiros%20passos%20com%20JavaScript/README.md)
+- [Lidando com objetos e vetores](https://github.com/raphaelcaires/launchbase-desafios-01/blob/main/1-2%20Lidando%20com%20objetos%20e%20vetores/README.md)
+- [Funções e estruturas de repetição](https://github.com/raphaelcaires/launchbase-desafios-01/blob/main/1-3%20Fun%C3%A7%C3%B5es%20e%20estruturas%20de%20repeti%C3%A7%C3%A3o/README.md)
+- [Aplicação: Operações bancárias](https://github.com/raphaelcaires/launchbase-desafios-01/blob/main/1-4%20Aplica%C3%A7%C3%A3o%20opera%C3%A7%C3%B5es%20banc%C3%A1rias/README.md)
 
 ## :memo: Licença
 
